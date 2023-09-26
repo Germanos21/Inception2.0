@@ -1,0 +1,11 @@
+DOMAIN_NAME=gchernys.42.fr
+CERT_=./etc/nginx/ssl/gchernys.42.fr.crt
+KEY_=./etc/nginx/ssl/gchernys.42.fr.key
+DB_NAME=wordpress
+DB_ROOT=rootpass
+DB_USER=wpuser
+DB_PASS=wppass
+WPADUSER=wpaduser
+WPADPASS=wpadminpass
+WPUSER1=wpuser1
+WPUSER1PASS=wpuserpass
